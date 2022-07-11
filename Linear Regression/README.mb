@@ -1,0 +1,9 @@
+This section is for practicing linear regression.
+
+* insurance.csv
+- age : age
+- gender : 0 = female, 1 = male
+- bmi : body mass index
+- children : represent in numbers
+- smoker : 0 = non-smoker, 1 = smoker
+- charges : insurance fee
